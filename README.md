@@ -1,4 +1,4 @@
-# Madhav-Store---PowerBI
+# MADHAV ECOMMERCE SALES DASHBOARD ---PowerBI
 Project Learnings
 
 Created interactive dashboard to track and analyze online sales data
